@@ -2,9 +2,10 @@
 	width: 1800px;
 	margin-left: 60px;
 	margin-right: 60px;
-	border-collapse: collapse;
+	border-collapse: separate;
 	border-spacing: 0;
 	font-weight: bold;
+	border-spacing: 0px 20px;
 }
 
 .Country-table-head {
@@ -47,11 +48,6 @@
 }
 .Country-table-body {
 	border-collapse: separate;
-}
-.Country-table-body::before {
-	height: 20px;
-	display: table-row;
-	content: '';
 }
 
 .Country-row {

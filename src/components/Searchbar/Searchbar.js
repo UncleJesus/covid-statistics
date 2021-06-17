@@ -1,5 +1,5 @@
 import React from 'react'
-
+import searchSvg from './search.svg'
 import './searchbar.css'
 
 const Searchbar = function ({ handleFilter, value }) {
@@ -16,6 +16,7 @@ const Searchbar = function ({ handleFilter, value }) {
 					handleFilter(e.target.value)
 				}}
 			/>
+			<img className='Searchbar-svg' src={searchSvg} />
 		</div>
 	)
 }

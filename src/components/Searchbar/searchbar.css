@@ -1,5 +1,9 @@
+.Searchbar {
+}
 .SearchForm-input {
+	position: relative;
 	width: 600px;
+	height: 80px;
 	height: 80px;
 	border-style: none;
 	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
@@ -7,4 +11,7 @@
 	font-size: 48px;
 	line-height: 56px;
 	outline: none;
+}
+.Searchbar-svg {
+	position: absolute;
 }
