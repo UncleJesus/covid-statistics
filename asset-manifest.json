@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covid-statistics/static/css/main.1a6680cb.chunk.css",
+    "main.js": "/covid-statistics/static/js/main.9f85303f.chunk.js",
+    "main.js.map": "/covid-statistics/static/js/main.9f85303f.chunk.js.map",
+    "runtime-main.js": "/covid-statistics/static/js/runtime-main.3df52299.js",
+    "runtime-main.js.map": "/covid-statistics/static/js/runtime-main.3df52299.js.map",
+    "static/js/2.60b22d9d.chunk.js": "/covid-statistics/static/js/2.60b22d9d.chunk.js",
+    "static/js/2.60b22d9d.chunk.js.map": "/covid-statistics/static/js/2.60b22d9d.chunk.js.map",
+    "index.html": "/covid-statistics/index.html",
+    "static/css/main.1a6680cb.chunk.css.map": "/covid-statistics/static/css/main.1a6680cb.chunk.css.map",
+    "static/js/2.60b22d9d.chunk.js.LICENSE.txt": "/covid-statistics/static/js/2.60b22d9d.chunk.js.LICENSE.txt",
+    "static/media/file-medical.55c4084d.svg": "/covid-statistics/static/media/file-medical.55c4084d.svg",
+    "static/media/heartbeat.eacfa2b6.svg": "/covid-statistics/static/media/heartbeat.eacfa2b6.svg",
+    "static/media/logo.5ae96851.jpg": "/covid-statistics/static/media/logo.5ae96851.jpg",
+    "static/media/search.829fd066.svg": "/covid-statistics/static/media/search.829fd066.svg",
+    "static/media/skull.842606bb.svg": "/covid-statistics/static/media/skull.842606bb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3df52299.js",
+    "static/js/2.60b22d9d.chunk.js",
+    "static/css/main.1a6680cb.chunk.css",
+    "static/js/main.9f85303f.chunk.js"
+  ]
+}
