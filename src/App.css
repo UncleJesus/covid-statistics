@@ -23,9 +23,9 @@ html {
 body {
 	margin: 0;
 	font-family: Roboto, sans-serif;
-	display: block;
 	width: 1920px;
 	height: 1080px;
+	display: block;
 }
 
 /**
@@ -35,7 +35,10 @@ body {
 main {
 	display: block;
 }
-
+.Container {
+	margin-left: 60px;
+	margin-right: 60px;
+}
 /**
    * Correct the font size and margin on `h1` elements within `section` and
    * `article` contexts in Chrome, Firefox, and Safari.

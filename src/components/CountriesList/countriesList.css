@@ -1,7 +1,4 @@
 .Country-table {
-	width: 1800px;
-	margin-left: 60px;
-	margin-right: 60px;
 	border-collapse: separate;
 	border-spacing: 0;
 	font-weight: bold;
@@ -15,7 +12,7 @@
 }
 .Head-number {
 	width: 80px;
-	height: 80;
+	height: 80px;
 	background-color: #2196f3;
 	border-top-left-radius: 20px;
 	border-bottom-left-radius: 20px;
@@ -27,6 +24,7 @@
 
 .Head-country {
 	text-align: start;
+	width: 1560px;
 	padding-left: 20px;
 	background-color: #2196f3;
 	border-right: 1px solid white;
@@ -36,7 +34,6 @@
 }
 
 .Head-cases {
-	width: 700px;
 	text-align: start;
 	padding-left: 20px;
 	background-color: #2196f3;
@@ -56,6 +53,7 @@
 	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
 	border-radius: 20px;
 	border-spacing: 3px;
+	cursor: pointer;
 }
 
 .Country-number {

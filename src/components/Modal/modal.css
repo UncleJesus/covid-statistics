@@ -21,13 +21,13 @@
 	background-color: #fff;
 }
 .Modal-ul {
-	margin-top: 20px;
 	padding: 0px;
+	margin: 0px;
 }
 .Modal-country-name {
 	margin-left: auto;
 	margin-right: auto;
-	font-family: Roboto;
+	margin-top: 20px;
 	font-weight: normal;
 	font-style: normal;
 	font-weight: bold;
@@ -36,17 +36,21 @@
 }
 .Modal-country-stat {
 	display: flex;
+	justify-content: space-between;
+	position: relative;
 	margin-left: 20px;
 	margin-right: 20px;
-	justify-content: space-between;
+	margin-bottom: 46px;
 	width: 559px;
 	height: 30px;
-	font-family: Roboto;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
 	line-height: 28px;
 	color: #666666;
+}
+.Modal-country-stat:last-child {
+	margin-bottom: 36px;
 }
 
 .Modal-button {
@@ -65,10 +69,18 @@
 .Modal-button-text {
 	width: 32px;
 	height: 28px;
-	font-family: Roboto;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 24px;
 	line-height: 28px;
 	color: #ffffff;
+}
+
+.Modal-svg {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+}
+.Modal-stat-text {
+	margin-left: 65px;
 }
